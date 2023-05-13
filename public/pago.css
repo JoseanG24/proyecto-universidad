@@ -1,0 +1,292 @@
+*{
+    margin: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    background-color: #e4dfcb;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+input[type='text'] {
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-left: 10px;
+}
+button[type='submit']:hover {
+    background-color: #8d0e1f;
+}
+button[type='submit'] {
+    background-color: #8d0e1f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: #8d0e1f;
+    padding: 20px 50px;
+    text-align: center;
+    color: white;
+    border: 0px;
+}
+/*ocultado el logo de la universidad cuando la pantalla sea de telefono*/
+@media only screen and (max-width: 750px) {
+    .logounis {
+      display: none;
+    }
+
+    .descripcion {
+        display: none;
+    }
+
+    .cartas_pago {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .carta_de_pago.carta_de_pago:first-child {
+        margin-bottom: 50px;
+    }
+  }
+
+@media only screen and (max-width: 550px) {
+    .logocafeunis {
+        display: none;
+    }
+}
+
+.logocafes{
+    width: 120px;
+
+}
+.logocafeunis{
+    width:  180px;
+    margin: 0px;
+}
+.logounis {
+    width: 150px;
+}
+
+nav {
+    display: flex;
+}
+/*boton_nav son los botones que se encuentran en el header "regresar" en este caso*/
+.boton_nav {
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s ease;
+    background-color: #E9C423;
+}
+
+.boton_nav:hover {
+    background-color: white;
+    color: #E9C423;
+}
+/*agregar son los botones del body "agregar a orden"*/
+.boton_agregar {
+    margin: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid rgba(92, 92, 92, 0.5);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s ease;
+    color: white;
+    text-decoration: none;
+    background-color: #E9C423;
+}
+.boton_agregar:hover {
+    background-color: white;
+    color: #E9C423;
+}
+main {
+    padding: 50px;
+}
+
+.titulosecciones {
+    text-align: center;
+    padding: 10px;
+    color: black;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+#metododepago {
+    background-color: #d1cdbb;
+}
+
+#restaurantes {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+.cartas_pago {
+    font-size: 1.5em;
+    justify-content:center;
+    display: flex;
+
+}
+.carta_de_pago:first-child{
+    width: 400px;
+    background-color: #d1cdbb;
+    margin: 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 40px 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.carta_de_pago:nth-child(2){
+    width: 400px;
+    background-color: #d1cdbb;
+    margin: 0px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 40px 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.titulo_cartas {
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    color: black;
+    background-color: #b1ad9f;
+    margin-bottom: 20px;
+}
+.imagenes_cartas {
+    padding-top: 100px;
+    margin-top: 100px;
+}
+.boton_pago {
+    margin: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid rgba(92, 92, 92, 0.5);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+    color: white;
+    text-decoration: none;
+    background-color: #0cc4d1;
+}
+.boton_pago:hover {
+    background-color: white;
+    color: #0cc4d1;
+}
+.texto_importante {
+    color:#a7a28f;
+    padding: 50px;
+    justify-content: center;
+    display: flex;
+}
+footer {
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: #8d0e1f;
+    padding: 20px 50px;
+    text-align: center;
+    color: white;
+}
+
+
+
+#compra-realizada button:hover {
+    color: #0cc4d1;
+    background-color: white;
+}
+
+.blur {
+    filter: blur(3.4px);
+}
+
+.blur-ventana {
+    filter: none;
+ }
+
+ .texto-finalizado{
+    font-size: 14px;
+ }
+
+ .compra_realizada {
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .compra_realizada_contenido {
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .compra_realizada_contenido p {
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  .compra_realizada_contenido button {
+    margin-top: auto;
+    background-color:#0cc4d1;
+    color: white;
+    padding: 13px 30px;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(92, 92, 92, 0.5);
+  }
+

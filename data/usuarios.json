@@ -1,0 +1,78 @@
+{"usuarios" : [
+    {
+        "usuario": "jquiroa@unis.edu.gt",
+        "nombre": "Rodrigo",    
+        "apellido": "Quiroa",
+        "contrasena" : "contrasena",
+        "id": 1,
+        "rol": "estudiante",
+        "tarjetaDeCredito" : [
+
+        ]
+    },
+    {
+        "usuario": "arossell@unis.edu.gt",
+        "nombre": "Alessio",
+        "apellido": "Rossell",
+        "contrasena" : "contrasena",
+        "id": 2,
+        "rol": "estudiante",
+        "tarjetaDeCredito" : [
+
+        ]
+    },
+    {
+        "usuario": "kflores@unis.edu.gt",
+        "nombre": "Kevin",
+        "apellido": "Flores",
+        "contrasena" : "contrasena",
+        "id": 3,
+        "rol": "estudiante",
+        "tarjetaDeCredito" : [
+
+        ]
+    },
+    {
+        "usuario": "kgonzales@unis.edu.gt",
+        "nombre": "Kevin",
+        "apellido": "Gonzales",
+        "contrasena" : "contrasena",
+        "id": 4,
+        "rol": "estudiante",
+        "tarjetaDeCredito" : [
+
+        ]
+    },
+    {
+        "usuario": "jaguzman@unis.edu.gt",
+        "nombre": "Jose Andres",
+        "apellido": "Guzman",
+        "contrasena" : "contrasena",
+        "id": 5,
+        "rol": "estudiante",
+        "tarjetaDeCredito" : [
+
+        ]
+    }],
+
+"administradores": [
+    {
+        "usuario": "admin@unis.edu.gt",
+        "contrasena": "gitane",
+        "id": "admin1",
+        "rol": "administrador"
+    },
+    {
+        "usuario":"admin@unis.edu.gt",
+        "contrasena": "mix",
+        "id":"admin2",
+        "rol":"administrador"
+    },
+    {
+        "usuario": "admin@unis.edu.gt",
+        "contrasena": "delypanes",
+        "id" : "admin3",
+        "rol": "administrador"
+    }
+]
+}

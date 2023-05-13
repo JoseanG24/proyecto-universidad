@@ -1,0 +1,724 @@
+{"restaurantes":[
+        {
+            "restaurante": "Cafe Gitane",
+            "id" : "gitane",
+            "id_2" : "restaurante_1",
+            "id_3": "restaurante2Admin",
+            "image" : "/images/Sin título-4.png",
+            "imageWidth" : 250,
+            "imageHeight" : 250,
+            "bebidas": [
+                        {
+                        "nombre": "Americano",
+                        "precio": 15,
+                        "descripcion": "Pequeño",
+                        "imagen" : "/images/AmericanoF.jpg"
+                        },
+                        {
+                        "nombre": "Americano",
+                        "precio": 18,
+                        "descripcion": "Mediano",
+                        "imagen" : "/images/AmericanoF.jpg"
+                        },
+                        {
+                        "nombre": "Americano",
+                        "precio": 21,
+                        "descripcion": "Grande",
+                        "imagen" : "/images/AmericanoF.jpg"
+                        },
+                        {
+                        "nombre": "Cappuccino",
+                        "precio": 21,
+                        "descripcion": "Pequeño"
+                        },
+                        {
+                        "nombre": "Cappuccino",
+                        "precio": 24,
+                        "descripcion": "Mediano"
+                        },
+                        {
+                        "nombre": "Cappuccino",
+                        "precio": 27,
+                        "descripcion": "Grande"
+                        },
+                        {
+                        "nombre": "Caramel Latte",
+                        "precio": 25,
+                        "descripcion": "Pequeño"
+                        },
+                        {
+                        "nombre": "Caramel Latte",
+                        "precio": 29,
+                        "descripcion": "Mediano"
+                        },
+                        {
+                        "nombre": "Caramel Latte",
+                        "precio": 33,
+                        "descripcion": "Grande"
+                        },
+                        {
+                        "nombre": "Chocomint Latte",
+                        "precio": 25,
+                        "descripcion": "Pequeño"
+                        },
+                        {
+                        "nombre": "Chocomint Latte",
+                        "precio": 29,
+                        "descripcion": "Mediano"
+                        },
+                        {
+                        "nombre": "Chocomint Latte",
+                        "precio": 33,
+                        "descripcion": "Grande"
+                        },
+                        {
+                        "nombre": "Mocha",
+                        "precio": 25,
+                        "descripcion": "Pequeño"
+                        },
+                        {
+                        "nombre": "Mocha",
+                        "precio": 29,
+                        "descripcion": "Mediano"
+                        },
+                        {
+                        "nombre": "Mocha",
+                        "precio": 33,
+                        "descripcion": "Grande"
+                        },
+                        {
+                        "nombre": "Mochaccino",
+                        "precio": 26,
+                        "descripcion": "Pequeño"
+                        },
+                        {
+                        "nombre": "Mochaccino",
+                        "precio": 30,
+                        "descripcion": "Mediano"
+                        },
+                        {
+                        "nombre": "Mochaccino",
+                        "precio": 34,
+                        "descripcion": "Grande"
+                        },
+                        {
+                        "nombre": "Te Chai",
+                        "precio": 25,
+                        "descripcion": "Pequeño"
+                        },
+                        {
+                        "nombre": "Te Chai",
+                        "precio": 29,
+                        "descripcion": "Mediano"
+                        },
+                        {
+                        "nombre": "Te Chai",
+                        "precio": 33,
+                        "descripcion": "Grande"
+                        },
+                        {
+                        "nombre": "Matcha Latte",
+                        "precio": 27,
+                        "descripcion": "Pequeño"
+                        },
+                        {
+                        "nombre": "Matcha Latte",
+                        "precio": 29,
+                        "descripcion": "Mediano"
+                        },
+                        {
+                        "nombre": "Te Chai",
+                        "precio": 35,
+                        "descripcion": "Grande"
+                        },
+                        {
+                        "nombre": "White Mocha",
+                        "precio": 25,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "White Mocha",
+                        "precio": 29,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "White Mocha",
+                        "precio": 33,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Granita de café",
+                        "precio": 21,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Granita de café",
+                        "precio": 24,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Granita de café",
+                        "precio": 27,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Granita de frutas",
+                        "precio": 19,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Granita de frutas",
+                        "precio": 22,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Granita de frutas",
+                        "precio": 25,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Mocha Dream",
+                        "precio": [25, 29, 33],
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Mocha Dream",
+                        "precio": 29,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Mocha Dream",
+                        "precio": 33,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Te Chai Frappé",
+                        "precio": 25,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Te Chai Frappé",
+                        "precio": 29,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Te Chai Frappé",
+                        "precio": 33,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Matcha Frappé",
+                        "precio": 27,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Matcha Frappé",
+                        "precio": 31,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Matcha Frappé",
+                        "precio": 35,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Oreo Dream",
+                        "precio": 25,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Oreo Dream",
+                        "precio": 29,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Oreo Dream",
+                        "precio": 33,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "White Dream",
+                        "precio": 25,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "White Dream",
+                        "precio": 29,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "White Dream",
+                        "precio": 33,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Chocomint Dream",
+                        "precio": 25,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Chocomint Dream",
+                        "precio": 29,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Chocomint Dream",
+                        "precio": 33,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Caramel Dream",
+                        "precio": 25,
+                        "descripcion": "Pequeño",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Caramel Dream",
+                        "precio": 29,
+                        "descripcion": "Mediano",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Caramel Dream",
+                        "precio": 33,
+                        "descripcion": "Grande",
+                        "imagen" : ""
+                        }],
+
+            "comidas": [
+                        {
+                        "nombre": "Combo de Burrito salchicha y huevo",
+                        "precio": [36],
+                        "descripcion": "Precio individual Q.24",
+                        "imagen" : "/images/burrito 2f.jpg"
+                        },
+                        {
+                        "nombre": "Combo de Muffin Deluxe",
+                        "precio": [32],
+                        "descripcion": "Precio individual Q.20",
+                        "imagen" : "/images/muffin-deluxeF.png"
+                        },
+                        {
+                        "nombre": "Combo flatbread de jamón, queso y huevo",
+                        "precio": [35],
+                        "descripcion": "Precio individual Q.23"
+                        },
+                        {
+                        "nombre": "Ensalada Europea",
+                        "precio": [30],
+                        "descripcion": "",
+                        "imagen" : "/images/ensaladaF.png"
+                        },
+                        {
+                        "nombre": "Combo gitano de pollo deluxe",
+                        "precio": [38],
+                        "descripcion": "Individual deluxe Q.26",
+                        "imagen" : "/images/gitano-de-polloF.png"
+                        },
+                        {
+                        "nombre": "Combo gitano de jamón deluxe",
+                        "precio": [36],
+                        "descripcion": "Individual deluxe Q.24"
+                        },
+                        {
+                        "nombre": "Combo Chicken Quesadilla con aguacate",
+                        "precio": [37],
+                        "descripcion": "Individual Q.25",
+                        "imagen" : "/images/quesadillaF.png"
+                        },
+                        {
+                        "nombre": "Combo Gitano Pibil",
+                        "precio": [36],
+                        "descripcion": "Pollo Pibil, aguacate, queso mozarella + Pepsi 600 ml + brownie o doritos "
+                        },
+                        {
+                        "nombre": "Muffin Chapin",
+                        "precio": [33],
+                        "descripcion": "Muffin, tocino, huevo + frijol, queso y crema + Cappuccino 12 Oz + brownie",
+                        "imagen" : "/images/muffin chapinF.png"
+                        }],
+
+            "bebidasNaturales": [
+                        {
+                        "nombre": "Paradise",
+                        "precio": [22],
+                        "descripcion": "Deliciosa combinación de fresas con toque de mantequilla de mani y banano (con agua o leche)"
+                        },
+                        {
+                        "nombre": "Wake Up",
+                        "precio": [22],
+                        "descripcion": "Fresca manzana verde con avena y mania (con agua o leche)."
+                        },
+                        {
+                        "nombre": "Summer",
+                        "precio": [22],
+                        "descripcion": "Exótica combinación de banano, leche, chia y limón."
+                        },
+                        {
+                        "nombre": "Energy",
+                        "precio": [22],
+                        "descripcion": "Fresco de pepino acompañado de jugo de limón."
+                        },
+                        {
+                        "nombre": "Detox",
+                        "precio": [22],
+                        "descripcion": "Mezcla perfecta de piña, pepino, manzana verde, apio, semillas de chia y miel.",
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Tropical",
+                        "precio": [22],
+                        "descripcion": "Piña y papaya con un toque de jugo de manzana.",
+                        "imagen": "/images/tropical bebida2f.jpg"
+                        },
+                        {
+                        "nombre": "Shine",
+                        "precio": [22],
+                        "descripcion": "Fresas y banano acompañado de un cereal y un toque de vainilla.",
+                        "imagen" : "/images/shine bebida3f.jpg"
+                        },
+                        {
+                        "nombre": "Booster",
+                        "precio": [22],
+                        "descripcion": "Piña, zanahoria, apio combinado con jugos de manzana  y naranja.",
+                        "imagen" : "/images/booster bebida1f.jpg"
+                        },
+                        {
+                        "nombre": "Berry Cool",
+                        "precio": [22],
+                        "descripcion": "Fresas acompañadas de mora y jugo de manzana.",
+                        "imagen" : "/images/berry-cool bebida4f.png"
+                        }]
+
+        },
+        {
+            "restaurante":"MIX",
+            "id" : "mix",
+            "id_2" : "restaurante_2",
+            "id_3": "restaurante2Admin",
+            "image" : "/images/Sin título-5.png",
+            "imageWidth" : 250,
+            "imageHeight" : 250,
+            "desayunos": [{
+                        "nombre": "Muffin con salchicha y huevo",
+                        "precio": 24,
+                        "descripcion": "Pan muffin con salchicha, huevo, queso americano y aderezo chipotle"
+                        },
+                        {
+                        "nombre": "Buongiorno",
+                        "precio":24,
+                        "descripcion":"Jamon de pavo, queso americano, mozarella, huevo frito y aderezo de la casa."
+                        },
+                        {
+                        "nombre": "Bagel Sandwich",
+                        "precio": [26],
+                        "descripcion":"Pan bagle tostado con huevo frito, jamon, queso americano."
+                        },
+                        {
+                        "nombre": "Bagel con queso crema",
+                        "precio": [25],
+                        "descripcion":"Pan bagle tostado con queso crema y jalea de fresa o mantequilla de mani y jalea."
+                        },
+                        {
+                        "nombre": "Parfait",
+                        "precio": [29],
+                        "descripcion":"Vaso de capas de yogurt griego, granola y fruta mixta (fruta de temporada)."
+                        },
+                        {
+                        "nombre": "Avocado Toast",
+                        "precio": [25],
+                        "descripcion":"Pan cibatta abierto, tostado con aguacate encima y un toque de aceite de oliva. Agrega huevo duro o frito por Q.5"
+                        },
+                        {
+                        "nombre": "Chilaquiles",
+                        "precio": [39],
+                        "descripcion":"Nachos de maiz bañados con pollo en salsa roja, huevo frito, frijol negro y un toque de crema."
+                        },
+                        {
+                        "nombre": "Universitario",
+                        "precio": [39],
+                        "descripcion":"Desayuno completo del dia 2 huevos, frijoles, platanitos, salchica, crema, pan, jugo o café negro."
+                        }
+                    ],
+                    "bebidasDesayunos" : [{
+                        "nombre": "Jugo de Naranja",
+                        "precio": 10
+                        },
+                        {
+                        "nombre": "Rosa de jamaica",
+                        "precio": [7]
+                        },
+                        {
+                        "nombre": "Frappe de mango",
+                        "precio": [32]
+                        },
+                        {
+                        "nombre": "Cafe negro",
+                        "precio": [12]
+                        },
+                        {
+                        "nombre": "Limonada",
+                        "precio": [12]
+                        },
+                        {
+                        "nombre": "Matcha Frappe",
+                        "precio": [32]
+                        },
+                        {
+                        "nombre": "Cafe con leche",
+                        "precio": [15]
+                        },
+                        {
+                        "nombre": "Agua pura",
+                        "precio": [5]
+                        }],
+
+                    "comidas" : [{
+                        "nombre": "Ensalada Santa Fe",
+                        "precio": [45,52],
+                        "descripcion":"Lechugas mixtas, pollo, chips de tortilla, elote, aguacate, pico de gallo, chedar, frijol rojo y aderezo chipotle. (Menú Q.52)"
+                        },
+                        {
+                        "nombre": "Ensalada Oriental",
+                        "precio": [45,52],
+                        "descripcion":"Lechugas mixtas, pollo, chips de tortilla, pasta de arroz, mandarina, ajonjoli, marañon y aderezo oriental. (Menú Q.52)"
+                        },
+                        {
+                        "nombre": "Ensalada Keto",
+                        "precio": [45,52],
+                        "descripcion":"Lechugas mixtas, pollo, aguacate, tocino, huevo duro, queso gorgonzola y aderezo de cilantro. (Menú Q.52)"
+                        },
+                        {
+                        "nombre": "Mix Americano",
+                        "precio": [45,52],
+                        "descripcion":"Arroz blanco, tinga de pollo, aguacate, elote, frijol rojo, manias y aderezo de cilantro. (Menú Q.52)"
+                        },
+                        {
+                        "nombre": "Mix California",
+                        "precio": [45,52],
+                        "descripcion":"Arroz blanco, pollo, aguacate, pico de gallo, cebolla morada, elote, chedar, aderezo cesar. (Menú Q.52)"
+                        },
+                        {
+                        "nombre": "Mix Teriyaki",
+                        "precio": [45,52],
+                        "descripcion":"Arroz blanco, pollo teriyaki, brocoli, huevo duro y semilla de marañon. (Menú Q.52)"
+                        },
+                        {
+                        "nombre": "Jamon y queso a la tortrix",
+                        "precio": [36,44],
+                        "descripcion":"Jamón queso americano, lechuga, tomate, tortrix barbacoa y aderezo mil islas. (Combo Q.44)"
+                        },
+                        {
+                        "nombre": "Pollo y aguacate",
+                        "precio": [39,47],
+                        "descripcion":"Pechuga de pollo, aguacate, queso mozarella, lechuga y aderezo chipotle. (Combo Q.47)"
+                        },
+                        {
+                        "nombre": "Pulled pork",
+                        "precio": [39,47],
+                        "descripcion":"Pulled pork con barbacoa, queso mozarella y ensalada de repollo rallado con zanahoria. (Combo Q.47)"
+                        },
+                        {
+                        "nombre": "Cesar Wrap",
+                        "precio": [39,47],
+                        "descripcion":"Tortilla de harina con mix de lechugas, pollo, queso parmesano, chips de tortilla y aderezo cesar. (Combo Q.47)"
+                        },
+                        {
+                        "nombre": "Pulled Wrap",
+                        "precio": [39,47],
+                        "descripcion":"Tortilla de harina con Mix de lechugas, hummus pulled pork, aguacare y arroz. (Combo Q.47)"
+                        },
+                        {
+                        "nombre": "Lasagna",
+                        "precio": [39,47],
+                        "descripcion":"Lasagna de carne de res. (Combo Q.47)"
+                        }],
+
+                    "pizzas": [{
+                        "nombre" : "Pizza de Queso",
+                        "precio" : [37,65],
+                        "descripcion" : "Combo personal: pizza + bebida (agua pura, limonada o rosa de jamaica) Q.37, GRANDE Q65 (Agrega 2 bebidas por Q12)",
+                        "bebidas" : ["agua","rosa","limonada"]
+                        },
+                       {
+                        "nombre" : "Pizza de Pepperoni",
+                        "precio" : [39,67],
+                        "descripcion" : "Combo personal: pizza + bebida (agua pura, limonada o rosa de jamaica) Q.37, GRANDE Q65 (Agrega 2 bebidas por Q12)",
+                        "bebidas" : ["agua","rosa","limonada"]
+                            },
+                           {
+                        "nombre" : "Pizza Hawaiana",
+                        "precio" : [41,72],
+                        "descripcion" : "Combo personal: pizza + bebida (agua pura, limonada o rosa de jamaica) Q.37, GRANDE Q65 (Agrega 2 bebidas por Q12)",
+                        "bebidas" : ["agua","rosa","limonada"]
+                        }],
+
+                    "smoothies" : [{
+                                "nombre" : "Lean",
+                                "precio": 32,
+                                "descripcion" : "piña, naranja, limón, pepitoria, avena y chile cobanero"
+                               },
+                               {
+                                "nombre" : "Power",
+                                "precio": 32,
+                                "descripcion" : "sandía, apio, fresa, avena y chia"
+                               },
+                                {
+                                "nombre" : "Mango",
+                                "precio": 32,
+                                "descripcion" : "pulpa de mango y rallo de limón"
+                                },
+                               {
+                                "nombre" : "Matcha",
+                                "precio": 32,
+                                "descripcion" : "té verde de matcha con leche"
+                                }]
+
+        },
+        {
+            "restaurante": "Delypanes & café",
+            "id" : "delipanes",
+            "id_2" : "restaurante_3",
+            "id_3": "restaurante3Admin",
+            "image" : "/images/Sin título-6.png",
+            "imageWidth" : 250,
+            "imageHeight" : 250,
+            "comidas": [
+                        {
+                        "nombre": "Pan con frijoles",
+                        "precio": [11],
+                        "imagen": ""
+                        },
+                        {
+                        "nombre": "Pan con Omelett",
+                        "precio": [11],
+                        "imagen": ""
+                        },
+                        {
+                        "nombre": "Pan con carne",
+                        "precio": [20],
+                        "imagen" : ""
+                        },
+                        {
+                        "nombre": "Pan con filete de pollo",
+                        "precio": [20],
+                        "imagen": ""
+                        },
+                        {
+                        "nombre": "Pan con ensalada de pollo",
+                        "precio": [20],
+                        "imagen": ""
+                        },
+
+                        {
+                        "nombre": "Pan de pita con pollo y queso",
+                        "precio": [20],
+                        "imagen": ""
+                        },
+
+                        {
+                        "nombre": "Derretido de jamón y queso",
+                        "precio": [20],
+                        "imagen": ""
+                        },
+
+                        {
+                        "nombre": "Club Sandwich",
+                        "precio": [20],
+                        "imagen": ""
+                        },
+
+                        {
+                        "nombre": "Burritos",
+                        "precio": [20],
+                        "imagen": ""
+                        },
+
+                        {
+                        "nombre": "Tostadas",
+                        "precio": [11],
+                        "imagen": ""
+                        }],
+
+            "bebidas": [
+                    {
+                        "nombre": "Café americano",
+                        "precio": [8, 10, 13],
+                        "descripcion": "Tamaños de 8, 12 y 16 Onzas"
+                        },
+                    {
+                        "nombre": "Café con leche",
+                        "precio": [10, 12, 15],
+                        "descripcion": "Tamaños de 8, 12 y 16 Onzas"
+                        },
+                    {
+                        "nombre": "Cappuccino",
+                        "precio": [12, 15, 20],
+                        "descripcion": "Tamaños de 8, 12 y 16 Onzas"
+                        },
+                    {
+                        "nombre": "Cappuccino con sabores",
+                        "precio": [14, 18, 24],
+                        "descripcion": "Tamaños de 8, 12 y 16 Onzas"
+                        },
+                    {
+                        "nombre": "Chocolate",
+                        "precio": [12, 15, 20],
+                        "descripcion": "Tamaños de 8, 12 y 16 Onzas"
+                        }],
+
+                "refrescos" : [
+                    {
+                        "nombre" : "Leche",
+                        "precio" : 12
+                    },
+                    {
+                        "nombre": "Licuados",
+                        "precio": [15],
+                        "descripcion": "Variedad entre fresa, banano y papaya en las que se puede realizar combinaciones ya sea con leche o agua."
+                        },
+                    {
+                        "nombre": "Gaseosas en lata",
+                        "precio": [7]
+                        },
+                    {
+                        "nombre": "Jugos en lata",
+                        "precio": [7]
+                        },
+                    {
+                        "nombre": "Refrescos naturales",
+                        "precio": [6]
+                    }]
+                }
+            ]
+}
+
+
+

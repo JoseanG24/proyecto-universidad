@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    position: relative;
+    min-height: 90vh;
+    margin: 0;
+    padding-bottom: 50px; /* Espacio para el logotipo del footer */
+    background-color: #e4dfcb;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #100f0f;
+    position: relative
+}
+
+.logo {
+    position: relative;
+    top: 100px;
+    left: 51%;
+    transform: translateX(-50%);
+    width: 520px;
+    height: 140px;
+    margin-bottom: 20px;
+}
+
+.logo-2 {
+    position: absolute;
+    bottom: 0; /* Ajustar valor para mover más abajo */
+    right: 30px; /* Ajustar valor para mover más a la derecha */
+    width: 100px;
+    height: 110px;
+}
+
+.login-container {
+    margin-top: 110px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type='email'] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #e4dfcb;
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 80px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #e4dfcb;
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 80px;
+    text-align: center;
+}
+
+button[type='submit'] {
+    background-color: #8d0e1f;
+    color: #fdfdfd;
+    border: none;
+    padding: 8.5px 144px;
+    cursor: pointer;
+    border-radius: 80px;
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button[type='submit']:hover {
+    background-color: #6e0a1c;
+    text-align: center;
+}
+
+.footer-color {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #E9C423;
+    color: #e4dfcb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.error {
+    position: relative;
+    top: 0;
+    right: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(179, 11, 11);
+    margin-top: 5px;
+}
